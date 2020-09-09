@@ -17,5 +17,5 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
 logging:
   level:
-    root: ERROR
+    com.epic.finx.admin: ERROR
   
