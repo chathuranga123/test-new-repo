@@ -1,7 +1,5 @@
 server:
   port: 9092
-  servlet:
-    context-path: /FINX_USER
 spring:
   application:
     name: finx-user-info-service
